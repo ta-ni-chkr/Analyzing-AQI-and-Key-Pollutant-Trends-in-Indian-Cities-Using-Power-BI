@@ -61,13 +61,13 @@ This project features an interactive Power BI report that explores air quality a
 ## Dashboard Snapshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7714d407-b57a-451f-9383-c97fd333ac27" 
-       alt="Dashboard GIF 1" width="800" height="500" />
+       alt="Dashboard GIF 1" width="700" height="400" />
 </p>
 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fbf9a542-d0b3-4713-aa9c-58c10b5e4838" 
-       alt="Dashboard GIF 2" width="800" height="500" />
+       alt="Dashboard GIF 2" width="700" height="400" />
 </p>
 
 ## Notable Insights  
