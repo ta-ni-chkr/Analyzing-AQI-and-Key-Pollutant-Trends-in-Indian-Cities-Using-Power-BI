@@ -41,7 +41,7 @@ This project features an interactive Power BI report that explores air quality a
 
  <p align="center">
   <img src="https://github.com/user-attachments/assets/5316798d-e24a-4954-bf27-ebf8fc1487b5" 
-       alt="AQI Table" width="800" height="500">
+       alt="AQI Table" width="600" height="400">
 </p>
 
 ## Tools Used  
