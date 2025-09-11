@@ -39,10 +39,9 @@ This project features an interactive Power BI report that explores air quality a
 
 - The table below outlines the permissible concentration ranges with respect to each pollutant within the various AQI categories, serving as a reference for interpreting overall air quality during the given time period. There is one more AQI category *“Severe Plus”* with an AQI above 500.
 
-
-
-  <p align="center">
-<img width="800" height="500" alt="AQI Table" src="https://github.com/user-attachments/assets/5316798d-e24a-4954-bf27-ebf8fc1487b5" />
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/5316798d-e24a-4954-bf27-ebf8fc1487b5" 
+       alt="AQI Table" width="800" height="500">
 </p>
 
 ## Tools Used  
@@ -62,13 +61,13 @@ This project features an interactive Power BI report that explores air quality a
 ## Dashboard Snapshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7714d407-b57a-451f-9383-c97fd333ac27" 
-       alt="Dashboard GIF 1" width="700" height="400" />
+       alt="Dashboard GIF 1" width="800" height="500" />
 </p>
 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fbf9a542-d0b3-4713-aa9c-58c10b5e4838" 
-       alt="Dashboard GIF 2" width="700" height="400" />
+       alt="Dashboard GIF 2" width="800" height="500" />
 </p>
 
 ## Notable Insights  
