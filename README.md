@@ -39,8 +39,10 @@ This project features an interactive Power BI report that explores air quality a
 
 - The table below outlines the permissible concentration ranges with respect to each pollutant within the various AQI categories, serving as a reference for interpreting overall air quality during the given time period. There is one more AQI category *“Severe Plus”* with an AQI above 500.
 
+
+
   <p align="center">
-  <img width="1005" height="467" alt="AQI Table" src="https://github.com/user-attachments/assets/adfcb888-cf0e-417a-ab9e-3bfbeb545e3c" />
+<img width="1002" height="467" alt="AQI Table" src="https://github.com/user-attachments/assets/5316798d-e24a-4954-bf27-ebf8fc1487b5" />
 </p>
 
 ## Tools Used  
@@ -59,6 +61,10 @@ This project features an interactive Power BI report that explores air quality a
 
 ## Dashboard Snapshots
 
+![Image](https://github.com/user-attachments/assets/7714d407-b57a-451f-9383-c97fd333ac27)
+
+![Image](https://github.com/user-attachments/assets/fbf9a542-d0b3-4713-aa9c-58c10b5e4838)
+
 ## Notable Insights  
 
 - **Patna (248)** and **Lucknow (200)** recorded the highest average AQI, primarily driven by PM2.5 and PM10, followed by NO₂ and CO.  
@@ -71,4 +77,5 @@ This project features an interactive Power BI report that explores air quality a
 ## Future Scope of Work  
 
 - There's room to expand the analysis by including more cities and extending the timeline, which could reveal broader patterns and long-term trends.  
-- Adding meteorological factors like temperature and wind speed could uncover stronger links between weather and air quality. - With Power BI Service, the report can be automatically refreshed each month, keeping the analysis always up to date — no manual uploads needed.  
+- Adding meteorological factors like temperature and wind speed could uncover stronger links between weather and air quality.
+- With Power BI Service, the report can be automatically refreshed each month, keeping the analysis always up to date — no manual uploads needed.  
