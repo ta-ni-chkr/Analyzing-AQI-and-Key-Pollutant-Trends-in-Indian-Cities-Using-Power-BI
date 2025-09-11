@@ -42,7 +42,7 @@ This project features an interactive Power BI report that explores air quality a
 
 
   <p align="center">
-<img width="900" height="400" alt="AQI Table" src="https://github.com/user-attachments/assets/5316798d-e24a-4954-bf27-ebf8fc1487b5" />
+<img width="800" height="500" alt="AQI Table" src="https://github.com/user-attachments/assets/5316798d-e24a-4954-bf27-ebf8fc1487b5" />
 </p>
 
 ## Tools Used  
@@ -60,10 +60,16 @@ This project features an interactive Power BI report that explores air quality a
 6. How does the overall AQI trend shift over the course of the year?  
 
 ## Dashboard Snapshots
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7714d407-b57a-451f-9383-c97fd333ac27" 
+       alt="Dashboard GIF 1" width="700" height="400" />
+</p>
 
-![Image](https://github.com/user-attachments/assets/7714d407-b57a-451f-9383-c97fd333ac27)
 
-![Image](https://github.com/user-attachments/assets/fbf9a542-d0b3-4713-aa9c-58c10b5e4838)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fbf9a542-d0b3-4713-aa9c-58c10b5e4838" 
+       alt="Dashboard GIF 2" width="700" height="400" />
+</p>
 
 ## Notable Insights  
 
