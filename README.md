@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Data & Methodology](#data-and-methodology)
+- [Data & Methodology](#data--methodology)
 - [Tools Used](#tools-used)
 - [Key Questions Answered](#key-questions-answered)
 - [Dashboard Snapshots](#dashboard-snapshots)
